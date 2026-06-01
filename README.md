@@ -54,7 +54,7 @@ From educational platforms to resource management systems, I deliver clean, main
 A production-grade microservices platform using **Express.js + TypeScript + Node.js monorepo**
 - **Architecture**: Multiple independent services (Auth, User, Course, Attendance, Grade, Content, API Gateway)
 - **Features**: JWT authentication, rate limiting, CORS, structured logging with Winston
-- **Tech**: Express, TypeScript, Monorepo structure, Docker ready, comprehensive error handling
+- **Tech**: Express, TypeScript, Monorepo structure, Docker-ready, comprehensive error handling
 - **Status**: Core infrastructure complete with microservices pattern
 
 ### 🔹 Coffee Management System
