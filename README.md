@@ -1,147 +1,235 @@
-# 👋 Hi, I'm SOKHA
+# 👋 Hey there! I'm **SOKHA**
 
-### Full-Stack Software Engineer | Microservices Architect | Business Systems Builder
+> *Building scalable, elegant solutions that power real businesses*
 
-I architect and build scalable, production-ready software for enterprise operations. Specializing in microservices, real-time systems, and full-stack applications that solve complex business problems.
+<div align="center">
 
-From educational platforms to resource management systems, I deliver clean, maintainable code that powers real businesses.
+### 🚀 Full-Stack Software Engineer | Microservices Architect | Business Systems Builder
+
+</div>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-- 🔭 Building microservices architectures and distributed systems
-- 💼 Expertise in enterprise systems: ERP, HRMS, educational platforms, booking/scheduling, asset management
-- 🏗️ Strong focus on clean architecture, scalability, and production-ready deployments
-- 📱 Full-stack development: web apps (Next.js), mobile (React Native, Flutter), backends (Node.js/Express)
-- 🎯 Passionate about solving real business challenges with elegant, robust solutions
-- ⚙️ Experienced with Docker, containerization, and DevOps practices
+I specialize in architecting and building **production-ready software** that scales. My passion lies in creating clean, maintainable systems that solve complex business challenges—from distributed microservices to intuitive user interfaces.
+
+```
+🔭 Building microservices architectures & distributed systems
+💼 Enterprise systems: ERP, HRMS, educational platforms, booking/scheduling
+🏗️  Clean architecture, scalability, production-ready deployments
+📱 Full-stack: Next.js web apps, React Native/Flutter mobile, Node.js backends
+🎯 Solving real business challenges with elegant, robust solutions
+⚙️  Docker, containerization, DevOps practices
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### **Frontend & UI**
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+</div>
 
-### Backend & Services
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=openbsd&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF6B6B?style=for-the-badge)
+### **Backend & Services**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=openbsd&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/API_Gateway-5C4EAE?style=flat-square&logo=fastapi&logoColor=white" alt="API Gateway" />
+</div>
 
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### **Database & Cloud**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</div>
 
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🏢 Key Projects
-
-### 🔹 E-System Microservices Architecture
-A production-grade microservices platform using **Express.js + TypeScript + Node.js monorepo**
-- **Architecture**: Multiple independent services (Auth, User, Course, Attendance, Grade, Content, API Gateway)
-- **Features**: JWT authentication, rate limiting, CORS, structured logging with Winston
-- **Tech**: Express, TypeScript, Monorepo structure, Docker-ready, comprehensive error handling
-- **Status**: Core infrastructure complete with microservices pattern
-
-### 🔹 Coffee Management System
-Modern full-stack business management platform
-- **Frontend**: Next.js 14 with TypeScript, Tailwind CSS, Radix UI components
-- **UI Framework**: shadcn/ui design system with 40+ components
-- **Features**: Real-time dashboards, analytics with Recharts, form validation (React Hook Form + Zod)
-- **Production Ready**: Husky pre-commit hooks, ESLint, Prettier, comprehensive type safety
-
-### 🔹 Universal Resource Scheduling System
-Intelligent scheduling platform for enterprise resource management
-- Multi-resource scheduling (meeting rooms, vehicles, appointments)
-- Employee availability management
-- Real-time availability tracking
-- Integration-ready API
-
-### 🔹 HR & Attendance Management System
-Comprehensive HR operations platform
-- Employee management and tracking
-- Attendance logging and analytics
-- Integration with resource scheduling
-- Reporting and insights
-
-### 🔹 E-Commerce Solutions
-Multiple implementations showcasing different architectural approaches
-- Product catalog management
-- Order processing systems
-- Payment integration ready
-- Inventory tracking
-
-### 🔹 Notes & Content Management Apps
-Cross-platform note applications
-- **Mobile**: Flutter, React Native
-- **Desktop**: C# backend support
-- Cloud sync capabilities
-- Responsive UI designs
+### **Tools & Infrastructure**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
 ---
 
-## 📊 Development Stack Highlights
+## 🎯 Featured Projects
 
-**Languages**: TypeScript, JavaScript, Node.js, C#, Dart
+### 🔹 **E-System Microservices Architecture**
+*A production-grade microservices platform*
 
-**Frameworks & Libraries**: 
-- Next.js 14+, React 18+, Express 5+
-- Radix UI, Tailwind CSS, Recharts
-- React Hook Form, Zod validation
-- Winston logging, Joi schema validation
+**Tech**: Express.js, TypeScript, Node.js Monorepo, Docker
 
-**Architecture Patterns**:
-- Microservices with API Gateway
-- Monorepo structure (Npm Workspaces)
-- Service-oriented architecture
-- RESTful API design
-
-**DevOps & Quality**:
-- Docker containerization
-- Git workflow with Husky pre-commit hooks
-- ESLint + Prettier code quality
-- Comprehensive TypeScript type checking
-- Jest testing framework
+- ✅ Multiple independent services (Auth, User, Course, Attendance, Grade, Content)
+- ✅ JWT authentication with rate limiting
+- ✅ CORS, structured logging with Winston
+- ✅ Comprehensive error handling & monitoring
+- ✅ Docker-ready deployment
 
 ---
 
-## 📌 Current Focus
+### 🔹 **Coffee Management System**
+*Modern full-stack business intelligence platform*
 
-```txt
-🚀 Scaling microservices architectures
-⚙️  DevOps & containerization (Docker, Docker Compose)
-🔐 Authentication & authorization patterns
-💾 Database optimization & schema design
-🎨 Modern UI/UX with component systems
-📈 System design for high-concurrency applications
-🧪 Testing & quality assurance best practices
+**Tech**: Next.js 14, TypeScript, Tailwind CSS, shadcn/ui
+
+- ✅ Real-time dashboards & analytics (Recharts)
+- ✅ 40+ pre-built UI components
+- ✅ Form validation (React Hook Form + Zod)
+- ✅ Production ready: Husky, ESLint, Prettier
+- ✅ Full type safety
+
+---
+
+### 🔹 **Universal Resource Scheduling System**
+*Intelligent enterprise resource management*
+
+**Features**:
+- 📅 Multi-resource scheduling (rooms, vehicles, appointments)
+- 👥 Employee availability management
+- ⚡ Real-time tracking
+- 🔌 Integration-ready API
+
+---
+
+### 🔹 **HR & Attendance Management System**
+*Comprehensive HR operations platform*
+
+**Features**:
+- 👤 Employee management & tracking
+- 📊 Attendance analytics & reporting
+- 🔗 Resource scheduling integration
+- 📈 Insights & performance tracking
+
+---
+
+### 🔹 **E-Commerce Solutions**
+*Multiple architectural implementations*
+
+- 📦 Product catalog & inventory management
+- 🛒 Order processing systems
+- 💳 Payment integration ready
+- 📊 Real-time inventory tracking
+
+---
+
+### 🔹 **Notes & Content Management Apps**
+*Cross-platform applications*
+
+- 📱 Mobile: Flutter, React Native
+- 💻 Desktop: C# backend support
+- ☁️ Cloud sync capabilities
+- 🎨 Responsive UI designs
+
+---
+
+## 📚 Development Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | TypeScript, JavaScript, Node.js, C#, Dart |
+| **Frontend** | Next.js 14+, React 18+, React Native, Flutter |
+| **Backend** | Express 5+, Node.js, Microservices |
+| **UI/Styling** | Tailwind CSS, Radix UI, shadcn/ui, Recharts |
+| **Validation** | Zod, Joi, React Hook Form |
+| **Logging** | Winston, structured logging |
+| **Architecture** | Microservices, API Gateway, Monorepo (NPM Workspaces) |
+| **DevOps** | Docker, Docker Compose, Git workflow with Husky |
+| **Quality** | ESLint, Prettier, TypeScript strict mode, Jest |
+
+---
+
+## 🎓 Areas of Expertise
+
+<table>
+<tr>
+<td>
+
+**Enterprise Systems**
+- 🏢 ERP platforms
+- 👥 HRMS solutions
+- 📚 Educational platforms
+- 📅 Booking/Scheduling systems
+- 🏭 Asset management
+
+</td>
+<td>
+
+**System Architecture**
+- 🌐 Microservices design
+- 🔀 Distributed systems
+- 🏗️ API Gateway patterns
+- 📡 Inter-service communication
+- ⚡ High-concurrency systems
+
+</td>
+<td>
+
+**Full-Stack Development**
+- 🎨 Responsive UI design
+- 💾 Database optimization
+- 🔐 Auth & authorization
+- 🧪 Testing strategies
+- 🚀 Production deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Focus
+
+```
+⚡ Scaling microservices architectures for high-performance systems
+🐳 DevOps & containerization (Docker, Docker Compose, orchestration)
+🔐 Advanced authentication & authorization patterns
+💾 Database optimization & schema design for millions of records
+🎨 Modern UI/UX with component-driven design systems
+📈 System design for high-concurrency, low-latency applications
+🧪 Testing & quality assurance best practices (unit, integration, e2e)
+🔍 Performance monitoring & observability
 ```
 
 ---
 
-## 🎓 Specializations
+## 💡 Philosophy
 
-- **Enterprise Systems**: ERP, HRMS, CMS platforms
-- **Real-time Applications**: Scheduling, availability management, notifications
-- **Microservices & Distributed Systems**: API Gateway, inter-service communication, scalability
-- **Full-Stack Development**: From database schema to responsive UI
-- **Database Design**: PostgreSQL, normalization, query optimization
-- **Modern DevOps**: Docker, containerization, infrastructure as code
+> *"Clean code is not written for machines—it's written for humans who will maintain it."*
+
+I believe in:
+- **Writing code that tells a story** – clear, self-documenting, maintainable
+- **Scalability from day one** – architectures that grow with your business
+- **User-first thinking** – solving real problems with elegant solutions
+- **Continuous learning** – staying ahead in a rapidly evolving tech landscape
+- **Team collaboration** – building with others, sharing knowledge
 
 ---
 
-**Let's build something impactful together! 🚀**
+<div align="center">
+
+### 🌟 Let's build something **impactful** together!
+
+<a href="https://github.com/SokhaSuk">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by SOKHA** | *Always learning, always building*
+
+</div>
